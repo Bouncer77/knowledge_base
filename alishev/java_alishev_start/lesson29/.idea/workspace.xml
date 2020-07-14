@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93745bce-a795-4662-801c-d1b1802813cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c7RkZgYqWzABMsmEVYKa4ehZ6m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bouncer77" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Djenerik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.Djenerik" />
+      <module name="lesson29" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.Main" />
+      <module name="lesson29" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.Test" />
+      <module name="lesson29" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.lesson35" />
+      <module name="lesson29" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Djenerik" />
+      <item itemvalue="Application.lesson35" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lesson35" />
+        <item itemvalue="Application.Djenerik" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93745bce-a795-4662-801c-d1b1802813cb" name="Default Changelist" comment="" />
+      <created>1589877788973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589877788973</updated>
+      <workItem from="1589877790693" duration="5849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="29" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1589878419414">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="277" y="29" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1280.680@0.0.1280.680" timestamp="1589878419414" />
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1589883488590">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1589883488590" />
+    <state width="1238" height="163" key="GridCell.Tab.0.bottom" timestamp="1589885186234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589885186234" />
+    <state width="1238" height="163" key="GridCell.Tab.0.center" timestamp="1589885186234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589885186234" />
+    <state width="1238" height="163" key="GridCell.Tab.0.left" timestamp="1589885186234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589885186234" />
+    <state width="1238" height="163" key="GridCell.Tab.0.right" timestamp="1589885186234">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589885186234" />
+  </component>
+</project>

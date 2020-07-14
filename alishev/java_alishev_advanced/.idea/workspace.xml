@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbcb9a1f-c42d-4c5d-89e4-60c213cdaee4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cLrxqfe9emJxUY4lvrrRk8xOff" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java_alishev_advanced_multithreading" />
+  </component>
+  <component name="RunManager" selected="Application.Test (5)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.HashMap_006.Test" />
+      <module name="java_alishev_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.HashMap_006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.Set_008.Test" />
+      <module name="java_alishev_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.Set_008.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.Queue_014.Test" />
+      <module name="java_alishev_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.Queue_014.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.Stack_015.Test" />
+      <module name="java_alishev_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.Stack_015.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.Iterable_016.Test" />
+      <module name="java_alishev_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.Iterable_016.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.HashCode_009_010.Test" />
+      <module name="java_alishev_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.HashCode_009_010.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.Comparator_012_013.Test" />
+      <module name="java_alishev_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.Comparator_012_013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.LinkedLIst_004_005.Test" />
+      <module name="java_alishev_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.LinkedLIst_004_005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.Map_007.Test" />
+      <module name="java_alishev_advanced" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.Map_007.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test (4)" />
+      <item itemvalue="Application.Test (5)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (5)" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbcb9a1f-c42d-4c5d-89e4-60c213cdaee4" name="Default Changelist" comment="" />
+      <created>1590318963443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590318963443</updated>
+      <workItem from="1590318965414" duration="11529000" />
+      <workItem from="1590412372442" duration="7918000" />
+      <workItem from="1590477587194" duration="2219000" />
+      <workItem from="1591024056936" duration="613000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="766" y="43" key="#com.intellij.ide.util.MemberChooser" timestamp="1590422402344">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="766" y="43" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1590422402344" />
+    <state x="487" y="83" key="FileChooserDialogImpl" timestamp="1590488912777">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="487" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590488912777" />
+    <state width="595" height="270" key="GridCell.Tab.0.bottom" timestamp="1590439384703">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="270" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590439384703" />
+    <state width="595" height="270" key="GridCell.Tab.0.center" timestamp="1590439384702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="270" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590439384702" />
+    <state width="595" height="270" key="GridCell.Tab.0.left" timestamp="1590439384702">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="270" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590439384702" />
+    <state width="595" height="270" key="GridCell.Tab.0.right" timestamp="1590439384703">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="270" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590439384703" />
+    <state width="1238" height="204" key="GridCell.Tab.1.bottom" timestamp="1590353019452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590353019452" />
+    <state width="1238" height="204" key="GridCell.Tab.1.center" timestamp="1590353019452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1590353019452" />
+    <state width="1238" height="204" key="GridCell.Tab.1.left" timestamp="1590353019452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1590353019452" />
+    <state width="1238" height="204" key="GridCell.Tab.1.right" timestamp="1590353019452">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1590353019452" />
+    <state x="131" y="0" key="new project wizard" timestamp="1590477999620">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1590477999620" />
+  </component>
+</project>

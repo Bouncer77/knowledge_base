@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59a2e6dd-fc32-442e-8e60-4b1ec924cf78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d8QZThKTmDzjqa7NJZdBbAGqJY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Vector2DTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_alishev_unit_tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Vector2DTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Vector2DTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59a2e6dd-fc32-442e-8e60-4b1ec924cf78" name="Default Changelist" comment="" />
+      <created>1591804295069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591804295069</updated>
+      <workItem from="1591804296918" duration="2585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="52" key="#com.intellij.ide.util.MemberChooser" timestamp="1591805676832">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="52" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591805676832" />
+    <state x="422" y="97" key="FileChooserDialogImpl" timestamp="1591806870600">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="422" y="97" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591806870600" />
+    <state width="1238" height="163" key="GridCell.Tab.0.bottom" timestamp="1591806883955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591806883955" />
+    <state width="1238" height="163" key="GridCell.Tab.0.center" timestamp="1591806883955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.center/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591806883955" />
+    <state width="1238" height="163" key="GridCell.Tab.0.left" timestamp="1591806883955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.left/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591806883955" />
+    <state width="1238" height="163" key="GridCell.Tab.0.right" timestamp="1591806883955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1238" height="163" key="GridCell.Tab.0.right/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591806883955" />
+    <state x="65" y="43" key="new project wizard" timestamp="1591806872710">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="65" y="43" key="new project wizard/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591806872710" />
+  </component>
+</project>

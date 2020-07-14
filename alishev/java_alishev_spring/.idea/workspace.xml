@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59667d02-ebf1-460e-b327-73e25b8fdd78" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson1/src/main/java/com/bouncer77/spring/start/MusicalGenre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/src/main/java/com/bouncer77/spring/start/tz.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson1/src/main/java/com/bouncer77/spring/start/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/src/main/java/com/bouncer77/spring/start/MusicPlayer.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lesson1" />
+  </component>
+  <component name="ProjectId" id="1d5KnzZXlv63PNMmDBcIJfxg1qg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson1" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59667d02-ebf1-460e-b327-73e25b8fdd78" name="Default Changelist" comment="" />
+      <created>1591709684865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591709684865</updated>
+      <workItem from="1591709686201" duration="11000" />
+      <workItem from="1591889219570" duration="1192000" />
+      <workItem from="1591950244399" duration="678000" />
+    </task>
+    <task id="LOCAL-00001" summary="Переменные в конфигурации бина">
+      <created>1591889710996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591889710996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Переменные в конфигурации бина" />
+    <option name="LAST_COMMIT_MESSAGE" value="Переменные в конфигурации бина" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" width="1086" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591889806016">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" width="1086" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591889806016" />
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1591889716920">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="488" y="230" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591889716920" />
+    <state x="526" y="0" width="754" height="680" key="CommitChangelistDialog2" timestamp="1591889709822">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="526" y="0" width="754" height="680" key="CommitChangelistDialog2/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591889709822" />
+    <state x="422" y="104" key="FileChooserDialogImpl" timestamp="1591950328502">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="422" y="98" key="FileChooserDialogImpl/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1591889812334" />
+    <state x="422" y="104" key="FileChooserDialogImpl/0.0.1280.720/-1920.0.1920.1080@0.0.1280.720" timestamp="1591950328502" />
+  </component>
+</project>

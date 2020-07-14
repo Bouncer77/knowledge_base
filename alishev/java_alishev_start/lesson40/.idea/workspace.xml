@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf1a614d-8048-466e-bfa3-83481384d6f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cFWEXASOi0X9TQTSZayyeTTzV3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="EnumNow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.lesson48.EnumNow" />
+      <module name="lesson40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.lesson48.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumOld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.lesson48.EnumOld" />
+      <module name="lesson40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.lesson48.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.lesson45.ReadObject" />
+      <module name="lesson40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.lesson45.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.lesson49.Test" />
+      <module name="lesson40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.lesson49.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bouncer77.lesson45.WriteObj" />
+      <module name="lesson40" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bouncer77.lesson45.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WriteObj" />
+      <item itemvalue="Application.ReadObject" />
+      <item itemvalue="Application.EnumOld" />
+      <item itemvalue="Application.EnumNow" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.EnumNow" />
+        <item itemvalue="Application.EnumOld" />
+        <item itemvalue="Application.ReadObject" />
+        <item itemvalue="Application.WriteObj" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf1a614d-8048-466e-bfa3-83481384d6f7" name="Default Changelist" comment="" />
+      <created>1590124710761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590124710761</updated>
+      <workItem from="1590124712526" duration="5702000" />
+      <workItem from="1590144768688" duration="1574000" />
+      <workItem from="1590207083629" duration="4571000" />
+      <workItem from="1590318549762" duration="1012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590131489863">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="723" y="145" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1590131489863" />
+    <state x="766" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1590210433695">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="766" y="51" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1590210433695" />
+    <state x="488" y="83" key="FileChooserDialogImpl" timestamp="1590318960818">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="488" y="83" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1590318960818" />
+    <state width="595" height="119" key="GridCell.Tab.0.bottom" timestamp="1590211484446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1590211484446" />
+    <state width="595" height="119" key="GridCell.Tab.0.center" timestamp="1590211484446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1590211484446" />
+    <state width="595" height="119" key="GridCell.Tab.0.left" timestamp="1590211484446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1590211484446" />
+    <state width="595" height="119" key="GridCell.Tab.0.right" timestamp="1590211484446">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="595" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1590211484446" />
+    <state x="286" y="0" key="SettingsEditor" timestamp="1590207832145">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="286" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1590207832145" />
+    <state x="131" y="0" key="new project wizard" timestamp="1590318963143">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1590318963143" />
+  </component>
+</project>
