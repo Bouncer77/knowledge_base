@@ -21,6 +21,8 @@ public class Test {
 
 class MyThread extends Thread {
 
+    // volatile - значение не кэшируется для каждого потока, а всегда берется из общей памяти
+    // Один поток пишет в переменную, а все остальные потоки считывают с переменной
     private volatile boolean running = true;
 
     @Override

@@ -50,7 +50,7 @@ public class Test {
         Random random = new Random();
 
         while (true) {
-            queue.put(random.nextInt(100)); // 0 - 99
+            queue.put(random.nextInt(100)); // 0 - 99 // ждет пока место в очереди освободиться
         }
     }
 
@@ -62,7 +62,8 @@ public class Test {
             Thread.sleep(100);
             if (random.nextInt(10) == 5) {
                 // put / take - потокобезопасный
-                System.out.println(queue.take());
+                System.out.println(queue);
+                System.out.println(queue.take()); // ждет пока элименты будут добавлены
                 System.out.println("Queue size is " + queue.size());
             }
         }

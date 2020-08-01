@@ -54,6 +54,8 @@ class ProducerConsumer {
         int value = 0;
         while (true) {
             synchronized(LOCK) {
+
+                // Еще одна проверка после возврата монитора объекта и вызова notify() - чтобы не добавить 11 элемент в очередь
                 while (queue.size() == LIMIT) {
                     LOCK.wait();
                 }
@@ -67,6 +69,7 @@ class ProducerConsumer {
     public void consumer() throws InterruptedException {
         while (true) {
             synchronized (LOCK) {
+
                 // Если использовать if, то не будет дополнительной проверки
                 while (queue.size() == 0) {
                     LOCK.wait();
@@ -80,6 +83,5 @@ class ProducerConsumer {
 
             Thread.sleep(1000);
         }
-
     }
 }

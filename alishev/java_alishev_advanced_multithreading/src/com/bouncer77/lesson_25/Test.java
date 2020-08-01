@@ -1,7 +1,5 @@
 package com.bouncer77.lesson_25;
 
-import org.w3c.dom.ls.LSOutput;
-
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -17,8 +15,8 @@ public class Test {
         // Количество итераций, которое надо отсчитать перед тем, как защелка отопрется
         CountDownLatch countDownLatch = new CountDownLatch(3);
         ExecutorService executorService = Executors.newFixedThreadPool(3);
-        for (int i = 0; i < 3; i++) {
-            executorService.submit(new Processor(countDownLatch));
+        for (int i = 0; i < 10; i++) {
+            executorService.submit(new Processor(i, countDownLatch));
         }
 
         executorService.shutdown();
@@ -30,9 +28,11 @@ public class Test {
 
 class Processor implements Runnable {
 
+    private int id;
     private CountDownLatch countDownLatch;
 
-    public Processor(CountDownLatch countDownLatch) {
+    public Processor(int id, CountDownLatch countDownLatch) {
+        this.id = id;
         this.countDownLatch = countDownLatch;
     }
 
@@ -44,6 +44,7 @@ class Processor implements Runnable {
             e.printStackTrace();
         }
 
+        System.out.println("Processor " + id);
         countDownLatch.countDown();
     }
 }

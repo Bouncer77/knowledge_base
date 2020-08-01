@@ -22,3 +22,23 @@ public class Test {
         System.out.println("Hello, from main Thread");
     }
 }
+
+class MyThread extends Thread {
+
+    // Тут описывается код - который должен быть выполнен в своем потоке
+    @Override
+    public void run() {
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Hello, from MyThread " + i);
+        }
+    }
+}
+
+class Runner implements Runnable {
+    @Override
+    public void run() {
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Hello, from MyThread " + i);
+        }
+    }
+}

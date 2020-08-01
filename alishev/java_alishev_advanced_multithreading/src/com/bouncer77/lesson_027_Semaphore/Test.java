@@ -12,6 +12,10 @@ import java.util.concurrent.TimeUnit;
  * Created by Ivan Kosenkov on 26.05.2020
  * lesson
  */
+
+/**
+ * Одно соединение с сервером и много потоков
+ * */
 public class Test {
     public static void main(String[] args) throws InterruptedException {
         // количество разрешений для потоков
@@ -23,7 +27,7 @@ public class Test {
         * */
         // semaphore.release(); // отдать одно из разрешение
 
-        // semaphore.acquire(); // при начале взаимодействия с ресурсом
+        // semaphore.acquire(); // при начале взаимодействия с ресурсом // ждет пока появиться свободное разрешение
         // semaphore.availablePermits(); // вернуть количество свободных разрешений
         System.out.println("availablePermits: " + semaphore.availablePermits());
 
@@ -51,8 +55,9 @@ class Connection {
 
     private static Connection connection = new Connection();
     private int connectionsCount;
-    private Semaphore semaphore = new Semaphore(10);
+    private Semaphore semaphore = new Semaphore(10); // только 10 потоков могут взаимодействовать с ресурсом Connection
 
+    // запретит создавать объекты этого класса (Патерн - Singletone)
     private Connection () {
 
     }
@@ -62,10 +67,10 @@ class Connection {
     }
 
     public void work() throws InterruptedException {
-        semaphore.acquire();
+        semaphore.acquire(); // 11-ый поток будет ждать, пока один из 10 первых потоков завершит соединение
         try {
             doWork(); // если  будет искл => ресурс должен быть освобожден
-        } finally {
+        } finally { // при ошибке в doWork() должно освободиться разрешение
             semaphore.release(); // должно вызываться в последнем блоке
         }
     }
