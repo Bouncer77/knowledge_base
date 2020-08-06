@@ -50,25 +50,32 @@ class Runner {
 
         // Если может забрать лок, то возврат true
         // Если не может - то false
+        // до тех пор пока не заберем два лока
         while (true) {
             try {
                 firstLockTaken = lock1.tryLock();
                 secondLockTaken = lock2.tryLock();
             } finally {
+                // Успешно забрали два лока сразу
                 if (firstLockTaken && secondLockTaken) {
                     return;
                 }
 
+                // Освобождаем занятый лок для другого потока
+
+                // Для первого лока
                 if (firstLockTaken) {
                     lock1.unlock();
                 }
 
+                // Для второго потока
                 if (secondLockTaken) {
                     lock2.unlock();
                 }
             }
 
             try {
+                // дать время другим потокам забрать локи
                 Thread.sleep(1);
             } catch (InterruptedException e) {
                 e.printStackTrace();
