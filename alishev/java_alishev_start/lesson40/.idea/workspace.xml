@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf1a614d-8048-466e-bfa3-83481384d6f7" name="Default Changelist" comment="" />
+    <list default="true" id="bf1a614d-8048-466e-bfa3-83481384d6f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/Object/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/abstractClassAndInterface/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/abstractClassAndInterface/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/abstractClassAndInterface/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/abstractClassAndInterface/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/abstractClassAndInterface/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/abstractClassAndInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/abstractClassAndInterface/SuperInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/nestedClass/Electrocar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/nestedClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/nestedClass/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/nestedClass/anonymousInnerClass/AbleToEat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/nestedClass/anonymousInnerClass/MonitoringSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/nestedClass/anonymousInnerClass/Nested.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_alishev_advanced_multithreading/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_alishev_advanced_multithreading/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_alishev_spring/lesson1" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_alishev_spring/lesson1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java_webserver_jetty" beforeDir="false" afterPath="$PROJECT_DIR$/../../java_webserver_jetty" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nestedClasses/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../nestedClasses/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/nested.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/nested.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/increment/IncrementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/increment/IncrementTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../nestedClasses/nestedClasses/src/main/java/org/example/nestedClass/Nested.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,18 +58,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1cFWEXASOi0X9TQTSZayyeTTzV3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.EnumNow">
     <configuration name="EnumNow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bouncer77.lesson48.EnumNow" />
       <module name="lesson40" />
@@ -92,6 +141,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.WriteObj" />
       <item itemvalue="Application.ReadObject" />
@@ -101,26 +161,15 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.EnumNow" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.EnumOld" />
         <item itemvalue="Application.ReadObject" />
         <item itemvalue="Application.WriteObj" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -135,11 +184,23 @@
       <workItem from="1590144768688" duration="1574000" />
       <workItem from="1590207083629" duration="4571000" />
       <workItem from="1590318549762" duration="1012000" />
+      <workItem from="1596719649543" duration="616000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="145" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590131489863">

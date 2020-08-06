@@ -35,5 +35,13 @@ public class IncrementTest {
         System.out.println(m); // 1
         m++;
         System.out.println(m); // 2
+
+
+        System.out.println("*****************");
+        int p = 1;
+        m = 1;
+        p = m++;
+        System.out.println(m); // 2
+        System.out.println(p); // 1
     }
 }

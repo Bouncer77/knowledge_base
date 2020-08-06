@@ -46,5 +46,8 @@ public class EnumNow {
 
         System.out.println(season.ordinal()); // Позиция Enum в перечисление
 
+        for (Animal a : Animal.values()) {
+            System.out.println(a.ordinal() + " : " + a.name() + " - " + a.getTranslation());
+        }
     }
 }
