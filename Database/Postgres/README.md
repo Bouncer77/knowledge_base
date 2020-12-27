@@ -1,9 +1,7 @@
 # Postgres
 
-1. PostgresSQL
+1. PostgresSQL + pl_pg_SQL
 
 2. psql
 
 3. pgAdmin
-
-4. pl_pg_SQL
