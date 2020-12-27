@@ -2,4 +2,4 @@
 
 [Использование Markdown в работе](./Markdown.md)
 
-[Шпаргалка по Markdown](./arkdown-Cheatsheet-ru.md)
+[Шпаргалка по Markdown](./Markdown_Cheatsheet.md)
