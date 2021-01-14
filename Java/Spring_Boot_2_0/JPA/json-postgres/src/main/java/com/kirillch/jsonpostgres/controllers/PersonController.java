@@ -7,12 +7,10 @@ import com.kirillch.jsonpostgres.repositories.PersonRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.util.ResourceUtils;
-import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.net.URL;
 import java.util.List;
@@ -22,14 +20,14 @@ public class PersonController {
 
     private final static Logger logger = LoggerFactory.getLogger(PersonController.class);
 
-    private PersonRepository personRepository;
+    private final PersonRepository personRepository;
 
     @Autowired
     public PersonController(PersonRepository personRepository) {
         this.personRepository = personRepository;
     }
 
-    @RequestMapping("json")
+    @GetMapping("json")
     public void json() {
         //get json data from file "people.json" in our resources
 
