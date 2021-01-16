@@ -1,3 +1,9 @@
+# Приложение
+
+Приложение преобразует POJO Java экземпляры классов в JSON и обратно с помощью библиотеки Jeckson
+
+[YouTube видео урок (первоисходник для проекта)](https://www.youtube.com/watch?v=ZDk4UnOHXXA&list=PLiJ76e8LBYQXnIAc76C5NinjZSQbBFm0j&index=4)
+
 # JavaScript Object Notation
 
 Описание объектов JavaScript
