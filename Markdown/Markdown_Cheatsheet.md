@@ -3,6 +3,8 @@
 
 (перевод, [оригинал](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
 
+[Альтернативная статья](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+
 Поиграть с разметкой Markdown можно на [демо-странице](http://www.markdown-here.com/livedemo.html).
 
 ##### Содержание  
