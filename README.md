@@ -3,7 +3,7 @@
 
 ![technology_stack_colour](./images/draw_io/all/technology_stack_colour.svg)
 
-## Структура проекта
+## Структура проекта 1
 
 1. [Java](./Java)
 	
