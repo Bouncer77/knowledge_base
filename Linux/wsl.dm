@@ -1,4 +1,6 @@
 
+[windows10_wsl](https://docs.microsoft.com/ru-ru/windows/wsl/)
+
 Microsoft Windows, Symbian OS и другие.
 
 Конец строки (EOL) последовательности (0x0D 0x0A , \r\n) фактически представляет собой два символа ASCII, комбинацию символов CR и LF.

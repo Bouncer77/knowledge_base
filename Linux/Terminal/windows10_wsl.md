@@ -1,1 +1,0 @@
-[windows10_wsl](https://docs.microsoft.com/ru-ru/windows/wsl/)
