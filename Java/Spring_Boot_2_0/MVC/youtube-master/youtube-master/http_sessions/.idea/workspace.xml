@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d4c7785-575a-4106-bd34-2a6f4629d1cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../http_component_test1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../http_component_test1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../http_component_test1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../http_component_test1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../http_component_test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../http_component_test1/http_component_test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../http_component_test1/src/main/java/bouncer77/HttpExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../http_component_test1/target/classes/bouncer77/HttpExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/src/main/java/bouncer77/ExamleRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/src/main/java/bouncer77/SpringRestLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../test2/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../youtube-master.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boost/brain/youtube/http/HttpSessions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boost/brain/youtube/http/bean/HttpSessionBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boost/brain/youtube/http/controller/HttpSessionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/boost/brain/youtube/http/servlet/HttpSessionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/test1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/test1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/test1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/test1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/test1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/test1/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/artifacts/web_static_archetype_test1_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/artifacts/web_static_archetype_test1_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_7_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_7_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_7_0_52.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_mockito_mockito_core_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_spring_aop_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_spring_beans_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_spring_context_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_spring_core_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_spring_expression_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_spring_test_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_spring_web_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_webjars_bootstrap_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_webjars_jquery_2_0_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/libraries/Maven__org_yaml_snakeyaml_1_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/src/main/java/com/bouncer77/maven/ui/SampleWebStaticApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/src/main/webapp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/src/test/java/com/bouncer77/maven/ui/SampleWebStaticApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/target/classes/com/bouncer77/maven/ui/SampleWebStaticApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/target/test-classes/com/bouncer77/maven/ui/SampleWebStaticApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Maven/maven_test/web-static-archetype-test1/web-static-archetype-test1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../introduction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../introduction/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Maven/introduction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Maven/introduction/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1nFKH5WdNubQpXLDhbmdisx8DKS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpSessions" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="http_sessions" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="boost.brain.youtube.http.HttpSessions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d4c7785-575a-4106-bd34-2a6f4629d1cb" name="Default Changelist" comment="" />
+      <created>1610980308454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610980308454</updated>
+      <workItem from="1610980309569" duration="2330000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
