@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company [
+        <!-- Объявление возможных элементов -->
+
+        <!--+ значит 1+
+        * значит 0+
+        ? значит 0 ИЛИ 1
+        Если квантификаторов не было добавлено, то считается, что должен быть только 1 элемент.-->
+
+        <!ELEMENT employee EMPTY>
+        <!ELEMENT employees (employee+)>
+        <!ELEMENT office (employees)>
+        <!ELEMENT offices (office+)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT company (name, offices)>
+
+        <!--один из группы элементов, можно было бы написать так:-->
+        <!--<!ELEMENT company ((name | offices))>-->
+        <!--но если бы внутри company было сразу два их, то валидация бы не проходила.-->
+
+        <!-- Добавление атрибутов для элементов employee и office -->
+        <!--ATTLIST следует название нужного элемента-->
+        <!ATTLIST employee
+        <!--«название атрибута – тип атрибута», а в конце можно добавить-->
+        <!--#IMPLIED (не обязателен) или #REQUIRED (обязателен)-->
+        name CDATA #REQUIRED
+        job  CDATA #REQUIRED
+        >
+
+        <!ATTLIST office
+        floor CDATA #REQUIRED
+        room  CDATA #REQUIRED
+        >
+
+        <!-- Добавление сущностей -->
+        <!ENTITY M "Maksim">
+        <!ENTITY I "Ivan">
+        <!ENTITY F "Franklin">
+]>
+
+<company>
+    <name>IT-Heaven</name>
+    <!-- Иван недавно уволился, только неделю отработать должен. Не забудьте потом удалить его из списка.-->
+    <offices>
+        <office floor="1" room="1">
+            <employees>
+                <employee name="&M;" job="Middle Software Developer" />
+                <employee name="&I;" job="Junior Software Developer" />
+                <employee name="&F;" job="Junior Software Developer" />
+            </employees>
+        </office>
+        <office floor="1" room="2">
+            <employees>
+                <employee name="Herald" job="Middle Software Developer" />
+                <employee name="Adam" job="Middle Software Developer" />
+                <employee name="Leroy" job="Junior Software Developer" />
+            </employees>
+        </office>
+    </offices>
+</company>
