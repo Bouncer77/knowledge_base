@@ -3,41 +3,41 @@
 
 ![technology_stack_colour](./images/draw_io/all/technology_stack_colour.svg)
 
-## Структура проекта
+## Структура проекта 1 + 2 + 4
 
 1. [Java](./Java)
 	
-	1. Java Core
+	+ Java Core
 
-	2. Java Collections Framework
+	+ Java Collections Framework
 
-	3. Multi-threading
+	+ Multi-threading
 
-	4. Patterns
+	+ Patterns
 
-	5. Code style
+	+ Code style
 
-2. Spring Boot 2.0
+2. [Spring Boot 2.0](./Spring_Boot_2_0)
 
-	1. JPA
+	+ JPA
 
-	2. Security
+	+ Security
 
-	3. MVC
+	+ MVC
 
 3. Testing
 	
-	1. JUnit
+	+ JUnit
 
-	2. TestNg
+	+ TestNg
 
-	3. Mockito
+	+ Mockito
 
 4. PostgreSQL
 
-	1. SQL
+	+ SQL
 
-	2. pl/pgSQL
+	+ pl/pgSQL
 
 5. Git
 
@@ -45,24 +45,24 @@
 
 7. Linux
 	
-	1. Commands
+	+ Commands
 
-	2. Bash
+	+ Bash
 
-	3. Vim
+	+ Vim
 
 8. Frameworks for automating project builds
 
-	1. Maven
+	+ Maven
 
-	2. Gradle
+	+ Gradle
 
 9. Frontend
 
-	1. HTML
+	+ HTML
 
-	2. CSS
+	+ CSS
 
-	3. JavaScript
+	+ JavaScript
 
-	4. React JS
+	+ React JS
