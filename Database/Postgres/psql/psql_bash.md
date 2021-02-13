@@ -1,6 +1,8 @@
 # PSQL + BASH
 
 ```bash
+PGPASSWORD=postgres psql -U postgres -d local_db_ref_dev -c "SELECT datname FROM pg_database WHERE datname='test1';"
+
 PGPASSWORD=pass1234 psql -U MyUsername myDatabaseName
 
 export PGPASSWORD='password'; psql -h 'server name' -U 'user name' -d 'base name' -c 'command'

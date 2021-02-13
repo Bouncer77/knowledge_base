@@ -74,6 +74,8 @@ sudo service postgresql status
 sudo service postgresql start
 # позволяет завершить работу с базой данных
 sudo service postgresql stop
+# позволяет перезапустить базу данных
+sudo service postgresql restart
 
 # Зайти под пользователе postgres в утилиту psql
 sudo -u postgres psql
