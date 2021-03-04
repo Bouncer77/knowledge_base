@@ -69,3 +69,5 @@
 	документации PostgreSQL.
 
 	Об ошибках сообщайте по адресу <pgsql-bugs@lists.postgresql.org>.
+
+

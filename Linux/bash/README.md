@@ -67,6 +67,10 @@ View -> Line Endings -> Unix
 Если уже отправили на Unix систему, то 
 
 ```bash
+
+```
+
+```bash
 awk '{ sub("\r$", ""); print }' git-copy.sh >git-copy2.sh
 mv git-copy2.sh git-copy.sh
 ```

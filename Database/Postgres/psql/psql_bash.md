@@ -68,3 +68,7 @@ fi
 [PostgreSQL: How to pass parameters from command line?](https://stackoverflow.com/questions/7389416/postgresql-how-to-pass-parameters-from-command-line)
 
 psql "dbname=kosenkov_1 options=--search_path=sh1" -a -f test3.sql
+
+docker exec -e "PGOPTIONS=--search_path=<your_schema>" -it docker_pg psql -U user db_name
+
+psql -X -d db_ref_test -c "\df ref_api_test.*" > df_test.txt
