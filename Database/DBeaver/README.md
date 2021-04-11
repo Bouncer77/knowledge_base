@@ -13,3 +13,7 @@
 
 [DBeaver_Config](./DBeaver_Config.md)
 
+## Хоткеи
+
+`Ctrl + '+'` - увеличить шрифт в редакторе
+
