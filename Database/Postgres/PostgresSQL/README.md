@@ -224,7 +224,7 @@ postgres=# \q
 ----------             |-------------------------|-----------------------------|------------
 postgresql.conf        | /etc/postgresql/12/main/postgresql.conf                | Вручную              | основной файл параметров 
 postgresql.auto.conf   | /var/lib/postgresql/12/main/postgresql.auto.conf       | команда ALTER SYSTEM | основной файл параметров (с высшим приоритетом, т.е. Параметры, установленные через команду `ALTER SYSTEM`, имеют приоритет над параметрами в postgresql.conf.
-pg_hba.conf            | /var/lib/postgresql/12/main/                           | Вручную              | Настройка аутентификация удаленных (не локальных) пользователей 
+pg_hba.conf            | /etc/postgresql/12/main                           | Вручную              | Настройка аутентификация удаленных (не локальных) пользователей 
 postgresql-12-main.log | `/var/log/postgresql/`, `C:\Apps\PostgresSQL\data\log` | Автоматически        | [Журнал сервера](#log)
 
 Имя 			     | Путь в Windows | Описание
