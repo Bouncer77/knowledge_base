@@ -19,9 +19,13 @@ git config user.name "your_name"
 Проверьте свой email
 
 git config user.email
-Установите/измените свой email
 
+Установите/измените свой email
 git config user.email "your@email.com"
+
 Список/просмотр всех конфигураций
 
 git config --list
+
+eval `ssh-agent -s`
+ssh-add

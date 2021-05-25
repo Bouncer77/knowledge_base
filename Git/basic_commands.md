@@ -1,5 +1,14 @@
 ## Сценариb взаимодействия
 
+### Как выложить свой проект на GitHub.com
+
+Для связи с GitHub'ом следует указать удаленный репозиторий:
+
+```bash
+git remote add origin https://github.com/USER/demo.git
+git push -u origin master
+```
+
 ### Стандартный
 
 ```bash

@@ -4,11 +4,15 @@ GIT - распределенная система контроля версий
 
 ## Первоначальная настройка Git
 
-$`git config --global user.name "Имя Фамилия"`
-$`git config --global user.email puskin@gmail.com`
+```bash
+git config --global user.name "Имя Фамилия"
+git config --global user.email puskin@gmail.com
+# Меняет цветовую схему на более читаемую
+git config --global color.ui true
+git config --list
+```
 
-Меняет цветовую схему на более читаемую
-$`git config --global color.ui true`
+[Generating a new SSH key and adding it to the ssh-agent](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 ## Параметр AutoCRLF
 

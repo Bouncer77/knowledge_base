@@ -20,3 +20,4 @@ PostgresSQL -> Backend (Spring Boot) -> Frontend (React)
 2. System tests
 3. Publish docker
 4. Deploy to prod
+
